@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\9 Console Input ouput\bin\Debug\9 Console Input ouput.exe.config
+C:\Users\EmilyLe\source\repos\Folder\9 Console Input ouput\bin\Debug\9 Console Input ouput.exe
+C:\Users\EmilyLe\source\repos\Folder\9 Console Input ouput\bin\Debug\9 Console Input ouput.pdb
+C:\Users\EmilyLe\source\repos\Folder\9 Console Input ouput\obj\Debug\9 Console Input ouput.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\9 Console Input ouput\obj\Debug\9 Console Input ouput.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\9 Console Input ouput\obj\Debug\9 Console Input ouput.exe
+C:\Users\EmilyLe\source\repos\Folder\9 Console Input ouput\obj\Debug\9 Console Input ouput.pdb

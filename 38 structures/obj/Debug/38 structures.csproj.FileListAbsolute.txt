@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\38 structures\bin\Debug\38 structures.exe.config
+C:\Users\EmilyLe\source\repos\Folder\38 structures\bin\Debug\38 structures.exe
+C:\Users\EmilyLe\source\repos\Folder\38 structures\bin\Debug\38 structures.pdb
+C:\Users\EmilyLe\source\repos\Folder\38 structures\obj\Debug\38 structures.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\38 structures\obj\Debug\38 structures.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\38 structures\obj\Debug\38 structures.exe
+C:\Users\EmilyLe\source\repos\Folder\38 structures\obj\Debug\38 structures.pdb

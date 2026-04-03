@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\21 Exercise 3\bin\Debug\21 Exercise 3.exe.config
+C:\Users\EmilyLe\source\repos\Folder\21 Exercise 3\bin\Debug\21 Exercise 3.exe
+C:\Users\EmilyLe\source\repos\Folder\21 Exercise 3\bin\Debug\21 Exercise 3.pdb
+C:\Users\EmilyLe\source\repos\Folder\21 Exercise 3\obj\Debug\21 Exercise 3.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\21 Exercise 3\obj\Debug\21 Exercise 3.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\21 Exercise 3\obj\Debug\21 Exercise 3.exe
+C:\Users\EmilyLe\source\repos\Folder\21 Exercise 3\obj\Debug\21 Exercise 3.pdb

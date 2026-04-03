@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Convert string number\bin\Debug\DataTypes - Convert string number.exe.config
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Convert string number\bin\Debug\DataTypes - Convert string number.exe
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Convert string number\bin\Debug\DataTypes - Convert string number.pdb
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Convert string number\obj\Debug\DataTypes - Convert string number.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Convert string number\obj\Debug\DataTypes - Convert string number.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Convert string number\obj\Debug\DataTypes - Convert string number.exe
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Convert string number\obj\Debug\DataTypes - Convert string number.pdb

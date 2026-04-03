@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\42 class properties\obj\Debug\42 class properties.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\42 class properties\obj\Debug\42 class properties.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\42 class properties\bin\Debug\_42_class_properties.exe.config
+C:\Users\EmilyLe\source\repos\Folder\42 class properties\bin\Debug\_42_class_properties.exe
+C:\Users\EmilyLe\source\repos\Folder\42 class properties\bin\Debug\_42_class_properties.pdb
+C:\Users\EmilyLe\source\repos\Folder\42 class properties\obj\Debug\_42_class_properties.exe
+C:\Users\EmilyLe\source\repos\Folder\42 class properties\obj\Debug\_42_class_properties.pdb

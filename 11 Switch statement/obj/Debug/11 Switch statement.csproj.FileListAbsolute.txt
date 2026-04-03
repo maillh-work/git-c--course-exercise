@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\11 Switch statement\bin\Debug\11 Switch statement.exe.config
+C:\Users\EmilyLe\source\repos\Folder\11 Switch statement\bin\Debug\11 Switch statement.exe
+C:\Users\EmilyLe\source\repos\Folder\11 Switch statement\bin\Debug\11 Switch statement.pdb
+C:\Users\EmilyLe\source\repos\Folder\11 Switch statement\obj\Debug\11 Switch statement.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\11 Switch statement\obj\Debug\11 Switch statement.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\11 Switch statement\obj\Debug\11 Switch statement.exe
+C:\Users\EmilyLe\source\repos\Folder\11 Switch statement\obj\Debug\11 Switch statement.pdb

@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\39 classes\bin\Debug\39 classes.exe.config
+C:\Users\EmilyLe\source\repos\Folder\39 classes\bin\Debug\39 classes.exe
+C:\Users\EmilyLe\source\repos\Folder\39 classes\bin\Debug\39 classes.pdb
+C:\Users\EmilyLe\source\repos\Folder\39 classes\obj\Debug\39 classes.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\39 classes\obj\Debug\39 classes.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\39 classes\obj\Debug\39 classes.exe
+C:\Users\EmilyLe\source\repos\Folder\39 classes\obj\Debug\39 classes.pdb

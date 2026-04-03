@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\29 parameters\bin\Debug\29 parameters.exe.config
+C:\Users\EmilyLe\source\repos\Folder\29 parameters\bin\Debug\29 parameters.exe
+C:\Users\EmilyLe\source\repos\Folder\29 parameters\bin\Debug\29 parameters.pdb
+C:\Users\EmilyLe\source\repos\Folder\29 parameters\obj\Debug\29 parameters.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\29 parameters\obj\Debug\29 parameters.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\29 parameters\obj\Debug\29 parameters.exe
+C:\Users\EmilyLe\source\repos\Folder\29 parameters\obj\Debug\29 parameters.pdb

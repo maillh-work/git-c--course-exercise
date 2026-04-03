@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\15 Try parse\bin\Debug\15 Try parse.exe.config
+C:\Users\EmilyLe\source\repos\Folder\15 Try parse\bin\Debug\15 Try parse.exe
+C:\Users\EmilyLe\source\repos\Folder\15 Try parse\bin\Debug\15 Try parse.pdb
+C:\Users\EmilyLe\source\repos\Folder\15 Try parse\obj\Debug\15 Try parse.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\15 Try parse\obj\Debug\15 Try parse.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\15 Try parse\obj\Debug\15 Try parse.exe
+C:\Users\EmilyLe\source\repos\Folder\15 Try parse\obj\Debug\15 Try parse.pdb

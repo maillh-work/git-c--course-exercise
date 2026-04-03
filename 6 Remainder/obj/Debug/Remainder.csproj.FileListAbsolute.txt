@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\Remainder\bin\Debug\Remainder.exe.config
+C:\Users\EmilyLe\source\repos\Folder\Remainder\bin\Debug\Remainder.exe
+C:\Users\EmilyLe\source\repos\Folder\Remainder\bin\Debug\Remainder.pdb
+C:\Users\EmilyLe\source\repos\Folder\Remainder\obj\Debug\Remainder.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\Remainder\obj\Debug\Remainder.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\Remainder\obj\Debug\Remainder.exe
+C:\Users\EmilyLe\source\repos\Folder\Remainder\obj\Debug\Remainder.pdb

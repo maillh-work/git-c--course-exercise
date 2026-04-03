@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\17 Output\bin\Debug\17 Output.exe.config
+C:\Users\EmilyLe\source\repos\Folder\17 Output\bin\Debug\17 Output.exe
+C:\Users\EmilyLe\source\repos\Folder\17 Output\bin\Debug\17 Output.pdb
+C:\Users\EmilyLe\source\repos\Folder\17 Output\obj\Debug\17 Output.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\17 Output\obj\Debug\17 Output.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\17 Output\obj\Debug\17 Output.exe
+C:\Users\EmilyLe\source\repos\Folder\17 Output\obj\Debug\17 Output.pdb

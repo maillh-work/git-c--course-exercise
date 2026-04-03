@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\12 For - While loops\bin\Debug\12 For - While loops.exe.config
+C:\Users\EmilyLe\source\repos\Folder\12 For - While loops\bin\Debug\12 For - While loops.exe
+C:\Users\EmilyLe\source\repos\Folder\12 For - While loops\bin\Debug\12 For - While loops.pdb
+C:\Users\EmilyLe\source\repos\Folder\12 For - While loops\obj\Debug\12 For - While loops.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\12 For - While loops\obj\Debug\12 For - While loops.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\12 For - While loops\obj\Debug\12 For - While loops.exe
+C:\Users\EmilyLe\source\repos\Folder\12 For - While loops\obj\Debug\12 For - While loops.pdb

@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Text\bin\Debug\DataTypes - Text.exe.config
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Text\bin\Debug\DataTypes - Text.exe
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Text\bin\Debug\DataTypes - Text.pdb
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Text\obj\Debug\DataTypes - Text.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Text\obj\Debug\DataTypes - Text.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Text\obj\Debug\DataTypes - Text.exe
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Text\obj\Debug\DataTypes - Text.pdb

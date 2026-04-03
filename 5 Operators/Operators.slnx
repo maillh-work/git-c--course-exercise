@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Remainder/Remainder.csproj" />
+  <Project Path="../Var - Const keyword/Var - Const keyword.csproj" />
+  <Project Path="Operators.csproj" />
+</Solution>

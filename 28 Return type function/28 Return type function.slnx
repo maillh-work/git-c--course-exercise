@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../29 parameters/29 parameters.csproj" Id="12cf9180-164e-4da9-9124-392e91ba3f41" />
+  <Project Path="../30 optional param/30 optional param.csproj" Id="762700ac-c53a-4fd0-a456-d65ced4f6277" />
+  <Project Path="../31 named param/31 named param.csproj" Id="f83f9844-5129-4509-b29f-8f0fefad6d25" />
+  <Project Path="../32 out param/32 out param.csproj" Id="24e4a6da-f9a1-42f7-b9a4-0c9767afebb3" />
+  <Project Path="28 Return type function.csproj" Id="5af16db1-cbdb-4549-8d81-917ac2e79d8e" />
+</Solution>

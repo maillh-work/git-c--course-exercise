@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\18 string formatting\bin\Debug\18 string formatting.exe.config
+C:\Users\EmilyLe\source\repos\Folder\18 string formatting\bin\Debug\18 string formatting.exe
+C:\Users\EmilyLe\source\repos\Folder\18 string formatting\bin\Debug\18 string formatting.pdb
+C:\Users\EmilyLe\source\repos\Folder\18 string formatting\obj\Debug\18 string formatting.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\18 string formatting\obj\Debug\18 string formatting.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\18 string formatting\obj\Debug\18 string formatting.exe
+C:\Users\EmilyLe\source\repos\Folder\18 string formatting\obj\Debug\18 string formatting.pdb

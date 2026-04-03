@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\Var - Const keyword\bin\Debug\Var - Const keyword.exe.config
+C:\Users\EmilyLe\source\repos\Folder\Var - Const keyword\bin\Debug\Var - Const keyword.exe
+C:\Users\EmilyLe\source\repos\Folder\Var - Const keyword\bin\Debug\Var - Const keyword.pdb
+C:\Users\EmilyLe\source\repos\Folder\Var - Const keyword\obj\Debug\Var - Const keyword.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\Var - Const keyword\obj\Debug\Var - Const keyword.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\Var - Const keyword\obj\Debug\Var - Const keyword.exe
+C:\Users\EmilyLe\source\repos\Folder\Var - Const keyword\obj\Debug\Var - Const keyword.pdb

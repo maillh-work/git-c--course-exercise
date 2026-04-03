@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\23 Arrays sorting\bin\Debug\23 Arrays sorting.exe.config
+C:\Users\EmilyLe\source\repos\Folder\23 Arrays sorting\bin\Debug\23 Arrays sorting.exe
+C:\Users\EmilyLe\source\repos\Folder\23 Arrays sorting\bin\Debug\23 Arrays sorting.pdb
+C:\Users\EmilyLe\source\repos\Folder\23 Arrays sorting\obj\Debug\23 Arrays sorting.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\23 Arrays sorting\obj\Debug\23 Arrays sorting.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\23 Arrays sorting\obj\Debug\23 Arrays sorting.exe
+C:\Users\EmilyLe\source\repos\Folder\23 Arrays sorting\obj\Debug\23 Arrays sorting.pdb

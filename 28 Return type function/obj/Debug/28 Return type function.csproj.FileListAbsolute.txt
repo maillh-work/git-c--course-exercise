@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\28 Return type function\bin\Debug\28 Return type function.exe.config
+C:\Users\EmilyLe\source\repos\Folder\28 Return type function\bin\Debug\28 Return type function.exe
+C:\Users\EmilyLe\source\repos\Folder\28 Return type function\bin\Debug\28 Return type function.pdb
+C:\Users\EmilyLe\source\repos\Folder\28 Return type function\obj\Debug\28 Return type function.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\28 Return type function\obj\Debug\28 Return type function.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\28 Return type function\obj\Debug\28 Return type function.exe
+C:\Users\EmilyLe\source\repos\Folder\28 Return type function\obj\Debug\28 Return type function.pdb

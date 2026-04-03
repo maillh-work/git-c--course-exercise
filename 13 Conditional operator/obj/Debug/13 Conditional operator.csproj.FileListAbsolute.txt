@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\13 Conditional operator\bin\Debug\13 Conditional operator.exe.config
+C:\Users\EmilyLe\source\repos\Folder\13 Conditional operator\bin\Debug\13 Conditional operator.exe
+C:\Users\EmilyLe\source\repos\Folder\13 Conditional operator\bin\Debug\13 Conditional operator.pdb
+C:\Users\EmilyLe\source\repos\Folder\13 Conditional operator\obj\Debug\13 Conditional operator.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\13 Conditional operator\obj\Debug\13 Conditional operator.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\13 Conditional operator\obj\Debug\13 Conditional operator.exe
+C:\Users\EmilyLe\source\repos\Folder\13 Conditional operator\obj\Debug\13 Conditional operator.pdb

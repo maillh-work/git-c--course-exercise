@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\33 reference param\obj\Debug\33 reference param.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\33 reference param\obj\Debug\33 reference param.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\33 reference param\bin\Debug\33 reference param.exe.config
+C:\Users\EmilyLe\source\repos\Folder\33 reference param\bin\Debug\33 reference param.exe
+C:\Users\EmilyLe\source\repos\Folder\33 reference param\bin\Debug\33 reference param.pdb
+C:\Users\EmilyLe\source\repos\Folder\33 reference param\obj\Debug\33 reference param.exe
+C:\Users\EmilyLe\source\repos\Folder\33 reference param\obj\Debug\33 reference param.pdb

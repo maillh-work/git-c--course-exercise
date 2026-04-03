@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\26 Exercise 4(1)\bin\Debug\26 Exercise 4(1).exe.config
+C:\Users\EmilyLe\source\repos\Folder\26 Exercise 4(1)\bin\Debug\26 Exercise 4(1).exe
+C:\Users\EmilyLe\source\repos\Folder\26 Exercise 4(1)\bin\Debug\26 Exercise 4(1).pdb
+C:\Users\EmilyLe\source\repos\Folder\26 Exercise 4(1)\obj\Debug\26 Exercise 4(1).csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\26 Exercise 4(1)\obj\Debug\26 Exercise 4(1).csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\26 Exercise 4(1)\obj\Debug\26 Exercise 4(1).exe
+C:\Users\EmilyLe\source\repos\Folder\26 Exercise 4(1)\obj\Debug\26 Exercise 4(1).pdb

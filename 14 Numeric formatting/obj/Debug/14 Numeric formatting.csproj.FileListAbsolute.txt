@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\14 Numeric formatting\bin\Debug\14 Numeric formatting.exe.config
+C:\Users\EmilyLe\source\repos\Folder\14 Numeric formatting\bin\Debug\14 Numeric formatting.exe
+C:\Users\EmilyLe\source\repos\Folder\14 Numeric formatting\bin\Debug\14 Numeric formatting.pdb
+C:\Users\EmilyLe\source\repos\Folder\14 Numeric formatting\obj\Debug\14 Numeric formatting.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\14 Numeric formatting\obj\Debug\14 Numeric formatting.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\14 Numeric formatting\obj\Debug\14 Numeric formatting.exe
+C:\Users\EmilyLe\source\repos\Folder\14 Numeric formatting\obj\Debug\14 Numeric formatting.pdb

@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\32 out param\bin\Debug\32 out param.exe.config
+C:\Users\EmilyLe\source\repos\Folder\32 out param\bin\Debug\32 out param.exe
+C:\Users\EmilyLe\source\repos\Folder\32 out param\bin\Debug\32 out param.pdb
+C:\Users\EmilyLe\source\repos\Folder\32 out param\obj\Debug\32 out param.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\32 out param\obj\Debug\32 out param.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\32 out param\obj\Debug\32 out param.exe
+C:\Users\EmilyLe\source\repos\Folder\32 out param\obj\Debug\32 out param.pdb

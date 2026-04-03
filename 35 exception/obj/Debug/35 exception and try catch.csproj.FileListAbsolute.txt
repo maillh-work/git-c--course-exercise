@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\35 exception\obj\Debug\35 exception and try catch.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\35 exception\obj\Debug\35 exception and try catch.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\35 exception\obj\Debug\35 exception.exe
+C:\Users\EmilyLe\source\repos\Folder\35 exception\obj\Debug\35 exception.pdb
+C:\Users\EmilyLe\source\repos\Folder\35 exception\bin\Debug\35 exception.exe.config
+C:\Users\EmilyLe\source\repos\Folder\35 exception\bin\Debug\35 exception.exe
+C:\Users\EmilyLe\source\repos\Folder\35 exception\bin\Debug\35 exception.pdb

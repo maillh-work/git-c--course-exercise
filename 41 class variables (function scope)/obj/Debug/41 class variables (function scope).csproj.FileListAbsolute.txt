@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\41 class variables (function scope)\bin\Debug\41 class variables (function scope).exe.config
+C:\Users\EmilyLe\source\repos\Folder\41 class variables (function scope)\bin\Debug\41 class variables (function scope).exe
+C:\Users\EmilyLe\source\repos\Folder\41 class variables (function scope)\bin\Debug\41 class variables (function scope).pdb
+C:\Users\EmilyLe\source\repos\Folder\41 class variables (function scope)\obj\Debug\41 class variables (function scope).csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\41 class variables (function scope)\obj\Debug\41 class variables (function scope).csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\41 class variables (function scope)\obj\Debug\41 class variables (function scope).exe
+C:\Users\EmilyLe\source\repos\Folder\41 class variables (function scope)\obj\Debug\41 class variables (function scope).pdb

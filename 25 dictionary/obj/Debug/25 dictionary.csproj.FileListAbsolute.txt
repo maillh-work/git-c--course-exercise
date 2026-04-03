@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\25 dictionary\bin\Debug\25 dictionary.exe.config
+C:\Users\EmilyLe\source\repos\Folder\25 dictionary\bin\Debug\25 dictionary.exe
+C:\Users\EmilyLe\source\repos\Folder\25 dictionary\bin\Debug\25 dictionary.pdb
+C:\Users\EmilyLe\source\repos\Folder\25 dictionary\obj\Debug\25 dictionary.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\25 dictionary\obj\Debug\25 dictionary.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\25 dictionary\obj\Debug\25 dictionary.exe
+C:\Users\EmilyLe\source\repos\Folder\25 dictionary\obj\Debug\25 dictionary.pdb

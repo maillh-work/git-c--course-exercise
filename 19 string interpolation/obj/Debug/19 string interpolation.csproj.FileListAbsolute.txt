@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\19 string interpolation\bin\Debug\19 string interpolation.exe.config
+C:\Users\EmilyLe\source\repos\Folder\19 string interpolation\bin\Debug\19 string interpolation.exe
+C:\Users\EmilyLe\source\repos\Folder\19 string interpolation\bin\Debug\19 string interpolation.pdb
+C:\Users\EmilyLe\source\repos\Folder\19 string interpolation\obj\Debug\19 string interpolation.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\19 string interpolation\obj\Debug\19 string interpolation.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\19 string interpolation\obj\Debug\19 string interpolation.exe
+C:\Users\EmilyLe\source\repos\Folder\19 string interpolation\obj\Debug\19 string interpolation.pdb

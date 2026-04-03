@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\16 Exercise 2 (Times table and Fizz buzz game)\bin\Debug\16 Exercise 2 (Times table and Fizz buzz game).exe.config
+C:\Users\EmilyLe\source\repos\Folder\16 Exercise 2 (Times table and Fizz buzz game)\bin\Debug\16 Exercise 2 (Times table and Fizz buzz game).exe
+C:\Users\EmilyLe\source\repos\Folder\16 Exercise 2 (Times table and Fizz buzz game)\bin\Debug\16 Exercise 2 (Times table and Fizz buzz game).pdb
+C:\Users\EmilyLe\source\repos\Folder\16 Exercise 2 (Times table and Fizz buzz game)\obj\Debug\16 Exercise 2 (Times table and Fizz buzz game).csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\16 Exercise 2 (Times table and Fizz buzz game)\obj\Debug\16 Exercise 2 (Times table and Fizz buzz game).csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\16 Exercise 2 (Times table and Fizz buzz game)\obj\Debug\16 Exercise 2 (Times table and Fizz buzz game).exe
+C:\Users\EmilyLe\source\repos\Folder\16 Exercise 2 (Times table and Fizz buzz game)\obj\Debug\16 Exercise 2 (Times table and Fizz buzz game).pdb

@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\30 optional param\bin\Debug\30 optional param.exe.config
+C:\Users\EmilyLe\source\repos\Folder\30 optional param\bin\Debug\30 optional param.exe
+C:\Users\EmilyLe\source\repos\Folder\30 optional param\bin\Debug\30 optional param.pdb
+C:\Users\EmilyLe\source\repos\Folder\30 optional param\obj\Debug\30 optional param.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\30 optional param\obj\Debug\30 optional param.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\30 optional param\obj\Debug\30 optional param.exe
+C:\Users\EmilyLe\source\repos\Folder\30 optional param\obj\Debug\30 optional param.pdb

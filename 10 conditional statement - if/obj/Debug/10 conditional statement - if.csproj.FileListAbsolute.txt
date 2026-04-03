@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\10 conditional statement - if\bin\Debug\_10_conditional_statement___if.exe.config
+C:\Users\EmilyLe\source\repos\Folder\10 conditional statement - if\bin\Debug\_10_conditional_statement___if.exe
+C:\Users\EmilyLe\source\repos\Folder\10 conditional statement - if\bin\Debug\_10_conditional_statement___if.pdb
+C:\Users\EmilyLe\source\repos\Folder\10 conditional statement - if\obj\Debug\10 conditional statement - if.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\10 conditional statement - if\obj\Debug\10 conditional statement - if.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\10 conditional statement - if\obj\Debug\_10_conditional_statement___if.exe
+C:\Users\EmilyLe\source\repos\Folder\10 conditional statement - if\obj\Debug\_10_conditional_statement___if.pdb

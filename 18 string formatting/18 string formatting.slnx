@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../19 string interpolation/19 string interpolation + concatenation.csproj" />
+  <Project Path="../20 Empty string/20 Empty string.csproj" />
+  <Project Path="../21 Exercise 3/21 Exercise 3.csproj" />
+  <Project Path="18 string formatting.csproj" />
+</Solution>

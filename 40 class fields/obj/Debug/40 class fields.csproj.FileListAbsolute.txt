@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\40 class fields\bin\Debug\40 class fields.exe.config
+C:\Users\EmilyLe\source\repos\Folder\40 class fields\bin\Debug\40 class fields.exe
+C:\Users\EmilyLe\source\repos\Folder\40 class fields\bin\Debug\40 class fields.pdb
+C:\Users\EmilyLe\source\repos\Folder\40 class fields\obj\Debug\40 class fields.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\40 class fields\obj\Debug\40 class fields.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\40 class fields\obj\Debug\40 class fields.exe
+C:\Users\EmilyLe\source\repos\Folder\40 class fields\obj\Debug\40 class fields.pdb

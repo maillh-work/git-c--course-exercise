@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EmilyLe\\source\\repos\\Folder\\38 structures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3DEB3-503A-4430-B53C-6596AB5F23E6}|..\\41 class variables (function scope)\\41 class variables (function scope).csproj|c:\\users\\emilyle\\source\\repos\\folder\\41 class variables (function scope)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EmilyLe\\source\\repos\\Folder\\41 class variables (function scope)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\41 class variables (function scope)\\Program.cs",
+              "ToolTip": "C:\\Users\\EmilyLe\\source\\repos\\Folder\\41 class variables (function scope)\\Program.cs*",
+              "RelativeToolTip": "..\\41 class variables (function scope)\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:18:11.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

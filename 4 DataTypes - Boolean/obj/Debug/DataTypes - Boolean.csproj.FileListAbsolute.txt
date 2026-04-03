@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Boolean\bin\Debug\DataTypes - Boolean.exe.config
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Boolean\bin\Debug\DataTypes - Boolean.exe
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Boolean\bin\Debug\DataTypes - Boolean.pdb
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Boolean\obj\Debug\DataTypes - Boolean.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Boolean\obj\Debug\DataTypes - Boolean.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Boolean\obj\Debug\DataTypes - Boolean.exe
+C:\Users\EmilyLe\source\repos\Folder\DataTypes - Boolean\obj\Debug\DataTypes - Boolean.pdb

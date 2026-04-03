@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\36 exercise 5\bin\Debug\36 exercise 5.exe.config
+C:\Users\EmilyLe\source\repos\Folder\36 exercise 5\bin\Debug\36 exercise 5.exe
+C:\Users\EmilyLe\source\repos\Folder\36 exercise 5\bin\Debug\36 exercise 5.pdb
+C:\Users\EmilyLe\source\repos\Folder\36 exercise 5\obj\Debug\36 exercise 5.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\36 exercise 5\obj\Debug\36 exercise 5.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\36 exercise 5\obj\Debug\36 exercise 5.exe
+C:\Users\EmilyLe\source\repos\Folder\36 exercise 5\obj\Debug\36 exercise 5.pdb

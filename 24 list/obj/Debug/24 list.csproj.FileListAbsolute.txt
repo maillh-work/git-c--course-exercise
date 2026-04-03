@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\24 list\bin\Debug\24 list.exe.config
+C:\Users\EmilyLe\source\repos\Folder\24 list\bin\Debug\24 list.exe
+C:\Users\EmilyLe\source\repos\Folder\24 list\bin\Debug\24 list.pdb
+C:\Users\EmilyLe\source\repos\Folder\24 list\obj\Debug\24 list.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\24 list\obj\Debug\24 list.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\24 list\obj\Debug\24 list.exe
+C:\Users\EmilyLe\source\repos\Folder\24 list\obj\Debug\24 list.pdb

@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\20 Empty string\bin\Debug\20 Empty string.exe.config
+C:\Users\EmilyLe\source\repos\Folder\20 Empty string\bin\Debug\20 Empty string.exe
+C:\Users\EmilyLe\source\repos\Folder\20 Empty string\bin\Debug\20 Empty string.pdb
+C:\Users\EmilyLe\source\repos\Folder\20 Empty string\obj\Debug\20 Empty string.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\20 Empty string\obj\Debug\20 Empty string.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\20 Empty string\obj\Debug\20 Empty string.exe
+C:\Users\EmilyLe\source\repos\Folder\20 Empty string\obj\Debug\20 Empty string.pdb

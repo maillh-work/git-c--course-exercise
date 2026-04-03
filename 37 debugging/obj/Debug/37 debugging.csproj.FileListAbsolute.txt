@@ -1,0 +1,7 @@
+C:\Users\EmilyLe\source\repos\Folder\37 debugging\bin\Debug\37 debugging.exe.config
+C:\Users\EmilyLe\source\repos\Folder\37 debugging\bin\Debug\37 debugging.exe
+C:\Users\EmilyLe\source\repos\Folder\37 debugging\bin\Debug\37 debugging.pdb
+C:\Users\EmilyLe\source\repos\Folder\37 debugging\obj\Debug\37 debugging.csproj.AssemblyReference.cache
+C:\Users\EmilyLe\source\repos\Folder\37 debugging\obj\Debug\37 debugging.csproj.CoreCompileInputs.cache
+C:\Users\EmilyLe\source\repos\Folder\37 debugging\obj\Debug\37 debugging.exe
+C:\Users\EmilyLe\source\repos\Folder\37 debugging\obj\Debug\37 debugging.pdb
